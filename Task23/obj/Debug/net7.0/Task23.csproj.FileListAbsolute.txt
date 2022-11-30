@@ -1,0 +1,15 @@
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/obj/Debug/net7.0/Task23.csproj.AssemblyReference.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/obj/Debug/net7.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/obj/Debug/net7.0/Task23.AssemblyInfoInputs.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/obj/Debug/net7.0/Task23.AssemblyInfo.cs
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/obj/Debug/net7.0/Task23.csproj.CoreCompileInputs.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/bin/Debug/net7.0/Task23
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/bin/Debug/net7.0/Task23.deps.json
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/bin/Debug/net7.0/Task23.runtimeconfig.json
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/bin/Debug/net7.0/Task23.dll
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/bin/Debug/net7.0/Task23.pdb
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/obj/Debug/net7.0/Task23.dll
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/obj/Debug/net7.0/refint/Task23.dll
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/obj/Debug/net7.0/Task23.pdb
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/obj/Debug/net7.0/Task23.genruntimeconfig.cache
+/Users/dmitrykuklin/Desktop/Home1C#/Home3Algorithms/Task23/obj/Debug/net7.0/ref/Task23.dll
